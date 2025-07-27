@@ -2,23 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>OneDrive Video Playback</title>
+  <title>Full-Viewport Video</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
 </head>
 <body>
-  <h1>Watch My Video</h1>
-  <video controls>
-    <source src="https://drive.usercontent.google.com/download?id=13xvtjQlP0KrZ0Fqk2NGDO8FC-XAnSTys&export=download&authuser=0">
-    Your browser does not support the video tag.
-  </video>
-<br>
-<br>
-<iframe 
-  src="https://drive.google.com/file/d/13xvtjQlP0KrZ0Fqk2NGDO8FC-XAnSTys/preview" 
-  width="100%" 
-  height="768" 
-  allow="autoplay" 
-  style="max-width: 100%; border: none;">
-</iframe>
+  <iframe 
+    src="https://drive.google.com/file/d/13xvtjQlP0KrZ0Fqk2NGDO8FC-XAnSTys/preview" 
+    allow="autoplay">
+  </iframe>
 </body>
 </html>
-
