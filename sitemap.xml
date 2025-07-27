@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://sophielaureceaubreton.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://sophielaurenceaubreton.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://sophielaureceaubreton.com/</loc>
+<loc>https://sophielaurenceaubreton.com/</loc>
 </url>
 <url>
-<loc>https://sophielaureceaubreton.com/booking/</loc>
+<loc>https://sophielaurenceaubreton.com/booking/</loc>
 <lastmod>2025-07-26T20:18:58-04:00</lastmod>
 </url>
 <url>
-<loc>https://sophielaureceaubreton.com/perfect-act/</loc>
+<loc>https://sophielaurenceaubreton.com/perfect-act/</loc>
 <lastmod>2025-07-27T10:49:27-04:00</lastmod>
 </url>
 <url>
-<loc>https://sophielaureceaubreton.com/sophie-laurenceau-breton/</loc>
+<loc>https://sophielaurenceaubreton.com/sophie-laurenceau-breton/</loc>
 <lastmod>2025-07-27T10:45:20-04:00</lastmod>
 <image:image>
-<image:loc>https://sophielaureceaubreton.com/media/posts/1/Screenshot-2025-07-25-at-9.19.44-PM.png</image:loc>
+<image:loc>https://sophielaurenceaubreton.com/media/posts/1/Screenshot-2025-07-25-at-9.19.44-PM.png</image:loc>
 <image:title><![CDATA[Sophie Laurenceau-Breton holding a puppy while smiling]]></image:title>
 </image:image>
 </url>
