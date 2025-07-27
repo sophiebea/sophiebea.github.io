@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sophie Tutors",
     "description": "",
-    "home_page_url": "https://www.sophielaureceaubreton.com",
-    "feed_url": "https://www.sophielaureceaubreton.com/feed.json",
+    "home_page_url": "https://sophielaureceaubreton.com",
+    "feed_url": "https://sophielaureceaubreton.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sophie Laurenceau-Breton"
